@@ -1,0 +1,9 @@
+{
+  "name": "jssh-snippet-redis-shards",
+  "version": "0.0.1",
+  "description": "Install multiple Redis servers on one Ubuntu box.",
+  "main": "index.js",
+  "dependencies": {
+    "jssh-snippet-redis": "*"
+  }
+}
